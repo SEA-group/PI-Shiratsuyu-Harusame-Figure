@@ -137,7 +137,7 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -151,7 +151,7 @@
 			<primitive>	SEA_Kami.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_KamiX	</identifier>
+					<identifier>	SHIPMATX_PBS_KamiX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Harusame_Kami.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -165,7 +165,7 @@
 			<primitive>	SEA_Kao.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_KaoX	</identifier>
+					<identifier>	SHIPMATX_PBS_KaoX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Harusame_Kao.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -179,7 +179,7 @@
 			<primitive>	SEA_Karata.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_KarataX	</identifier>
+					<identifier>	SHIPMATX_PBS_KarataX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Harusame_Karata.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -193,7 +193,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -207,7 +207,7 @@
 			<primitive>	MidFront_patch_MidBack_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -221,7 +221,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -235,7 +235,7 @@
 			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -249,7 +249,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -263,7 +263,7 @@
 			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -291,7 +291,7 @@
 			<primitive>	MidFront_NetShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Net	</identifier>
+					<identifier>	SHIPMATX_PBS_Net	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/C010_Grid_8_alpha.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -305,7 +305,7 @@
 			<primitive>	MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Harusame/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
